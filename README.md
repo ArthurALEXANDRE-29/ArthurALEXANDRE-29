@@ -142,19 +142,6 @@ struct NetworkSim {
 
 ---
 
-## 📊 **Statistiques GitHub**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthur-alexandre&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&locale=fr" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-alexandre&layout=compact&theme=react&hide_border=true&bg_color=0D1117&locale=fr" alt="Langages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-alexandre&theme=react&hide_border=true&background=0D1117&locale=fr" alt="GitHub Streak" />
-</div>
-
----
-
 ## 📚 **Formation & Parcours**
 
 Bac Maths/NSI 2024 – Mention
