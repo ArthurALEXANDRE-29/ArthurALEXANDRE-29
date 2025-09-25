@@ -27,7 +27,7 @@ const arthur = {
 };
 
 ```
-
+<br clear="right"/>
 
 ---
 
