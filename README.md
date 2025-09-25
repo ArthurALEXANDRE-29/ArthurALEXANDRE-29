@@ -184,14 +184,6 @@ Objectif : Devenir Développeur Full Stack 🚀
 
 </div>
 
----
-
-<div align="center">
-
-### 🐍 **Contribution Graph**
-![Snake animation](https://github.com/arthur-alexandre/arthur-alexandre/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
