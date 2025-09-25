@@ -10,9 +10,10 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🎯 **À Propos**
+
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW43ZzZicTF0OWlqejEwZjlveHdrczhzdmNtajJobmJ3cnQzNzN4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 ```javascript
 const arthur = {
@@ -24,6 +25,7 @@ const arthur = {
     semestre: 3,
     passions: ["Fantasy 📚", "Jeux Vidéo 🎮", "Dragon Age 🐉"],
 };
+
 ```
 
 <br clear="right"/>
