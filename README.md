@@ -2,7 +2,7 @@
   
 # Salut, je suis Arthur Alexandre
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=500&lines=Étudiant+Développeur+🚀;BUT+Informatique+@+Unistra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=500&lines=Étudiant+Développeur;BUT+Informatique+@+Unistra)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=arthur-alexandre&label=Vues%20du%20profil&color=6495ED&style=for-the-badge" alt="Profile views" />
 
