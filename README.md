@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Salut, je suis Arthur Alexandre
+# Salut, je suis Arthur Alexandre
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=600&lines=Étudiant+Développeur+🚀;BUT+Informatique+@+Unistra;3ème+Semestre)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=500&lines=Étudiant+Développeur+🚀;BUT+Informatique+@+Unistra)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=arthur-alexandre&label=Vues%20du%20profil&color=6495ED&style=for-the-badge" alt="Profile views" />
 
@@ -10,32 +10,19 @@
 
 ---
 
+## **À propos**
 
-## 🎯 **À Propos**
-
-<img align="right" alt="Coding" width="297" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW43ZzZicTF0OWlqejEwZjlveHdrczhzdmNtajJobmJ3cnQzNzN4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
-
-```javascript
-const arthur = {
-    age: 19,
-    location: "Strasbourg, France 🇫🇷",
-    education: "BUT Informatique",
-    parcours: "Développement d'Applications",
-    université: "Université de Strasbourg",
-    semestre: 3,
-    passions: ["Fantasy 📚", "Jeux Vidéo 🎮", "Dragon Age 🐉"],
-};
-
-```
-<br clear="right"/>
+- Étudiant en **BUT Informatique** à l’**Université de Strasbourg**  
+- Strasbourg, France 🇫🇷  
+- Passionné par le **développement**, la **fantasy** 📚 et les **jeux vidéo** 🎮  
 
 ---
 
-## 🛠️ **Compétences Techniques**
+## **Compétences**
 
 <div align="center">
 
-### 💻 **Langages de Programmation**
+### Langages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -43,12 +30,12 @@ const arthur = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🎨 **Frontend & Web**
+### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗄️ **Backend & Outils**
+### Outils
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,25 +45,7 @@ const arthur = {
 
 ---
 
-## 📚 **Formation & Parcours**
-
-Bac Maths/NSI 2024 – Mention
-BUT Informatique – Université de Strasbourg
-
-S1 : Fondamentaux algorithmiques, Qualité logicielle, Architecture système, HTML/CSS/JS, Introduction SQL
-
-S2 : POO et design patterns, Réseaux et programmation bas niveau, IHM et UX, Bases de données relationnelles
-
-S3 : Développement efficace et optimisé, Programmation système, Modélisation logicielle avancée, Web avancé (React, TypeScript), SQL avancé et optimisation
-
-Objectif : Devenir Développeur Full Stack 🚀
-
-</details>
-
----
-
-
-## 📫 **Me Contacter**
+## **Me contacter**
 
 <div align="center">
   
@@ -87,13 +56,12 @@ Objectif : Devenir Développeur Full Stack 🚀
 
 </div>
 
-
 ---
 
 <div align="center">
   
-**⚡ Fun fact :** *Grand fan de l'univers Dragon Age et dévoreur de romans fantasy !* 🐉📚
+*Fan de l’univers Dragon Age !*  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer&animation=twinkling" width="100%"/>
 
 </div>
