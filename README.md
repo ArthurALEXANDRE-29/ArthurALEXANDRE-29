@@ -2,8 +2,8 @@
   
 # Salut, je suis Arthur Alexandre
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=500&lines=Étudiant+Développeur;BUT+Informatique+@+Unistra)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=500&lines=Étudiant+Développeur;BUT+Informatique;Passionné+de+fantasy+et+jeux+vidéo)](https://git.io/typing-svg)
+  
 <img src="https://komarev.com/ghpvc/?username=arthur-alexandre&label=Vues%20du%20profil&color=6495ED&style=for-the-badge" alt="Profile views" />
 
 </div>
@@ -18,6 +18,22 @@
 
 ---
 
+## **Mes projets**
+
+<div align="center">
+
+[![simulation-reseau](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=simulation-reseau&theme=default)](https://github.com/ArthurALEXANDRE-29/simulation-reseau)
+[![doojons-and-dragons](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=doojons-and-dragons&theme=default)](https://github.com/ArthurALEXANDRE-29/doojons-and-dragons)
+[![gestion-caserne-pompier](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=gestion-caserne-pompier&theme=default)](https://github.com/ArthurALEXANDRE-29/gestion-caserne-pompier)
+
+</div>
+
+- 📌 simulation-reseau — Projet pédagogique en **C** (réseaux) : simulation et manipulation de communications réseau.
+- 📌 doojons-and-dragons — Projet pédagogique en **Java** (POO/jeu) : mini RPG textuel et structures objet.
+- 📌 gestion-caserne-pompier — Projet pédagogique en **C#/.NET** (gestion) : CRUD et logique métier de gestion.
+
+---
+
 ## **Compétences**
 
 <div align="center">
@@ -26,14 +42,14 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Réseau
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Outils
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
