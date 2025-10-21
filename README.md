@@ -14,16 +14,16 @@
 
 ---
 
-## **Mes projets**
+## **Quelques projets**
   
-- 📌 simulation-reseau — Projet pédagogique en **C** (réseaux) : simulation et manipulation de communications réseau.  
-[![simulation-reseau](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=simulation-reseau&theme=transparent&hide_border=true&border_radius=12&title_color=2F80ED&text_color=6A737D&icon_color=2F80ED)](https://github.com/ArthurALEXANDRE-29/simulation-reseau)
+  
+[![simulation-reseau](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=simulation-reseau&theme=transparent&hide_border=true&border_radius=12&title_color=2F80ED)](https://github.com/ArthurALEXANDRE-29/simulation-reseau)
 
-- 📌 doojons-and-dragons — Projet pédagogique en **Java** (POO/jeu) : mini RPG textuel et structures objet.  
-[![doojons-and-dragons](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=doojons-and-dragons&theme=transparent&hide_border=true&border_radius=12&title_color=2F80ED&text_color=6A737D&icon_color=2F80ED)](https://github.com/ArthurALEXANDRE-29/doojons-and-dragons)
+ 
+[![doojons-and-dragons](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=doojons-and-dragons&theme=transparent&hide_border=true&border_radius=12&title_color=2F80ED)](https://github.com/ArthurALEXANDRE-29/doojons-and-dragons)
 
-- 📌 gestion-caserne-pompier — Projet pédagogique en **C#/.NET** (gestion) : CRUD et logique métier de gestion.  
-[![gestion-caserne-pompier](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=gestion-caserne-pompier&theme=transparent&hide_border=true&border_radius=12&title_color=2F80ED&text_color=6A737D&icon_color=2F80ED)](https://github.com/ArthurALEXANDRE-29/gestion-caserne-pompier)
+ 
+[![gestion-caserne-pompier](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=gestion-caserne-pompier&theme=transparent&hide_border=true&border_radius=12&title_color=2F80ED)](https://github.com/ArthurALEXANDRE-29/gestion-caserne-pompier)
 
 ---
 
@@ -61,7 +61,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-alexandre-471780385)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.alexandre@etu.unistra.fr)
 [![Téléphone](https://img.shields.io/badge/Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33766755919)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/ArthurALEXANDRE-29))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthurALEXANDRE-29)
 
 </div>
 
