@@ -16,39 +16,39 @@
 
 ## **Mes projets**
   
-- 📌 simulation-reseau — Projet pédagogique en **C** (réseaux) : simulation et manipulation de communications réseau.
-[![simulation-reseau](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=simulation-reseau&theme=default)](https://github.com/ArthurALEXANDRE-29/simulation-reseau)
+- 📌 simulation-reseau — Projet pédagogique en **C** (réseaux) : simulation et manipulation de communications réseau.  
+[![simulation-reseau](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=simulation-reseau&theme=transparent&hide_border=true&border_radius=12&title_color=2F80ED&text_color=6A737D&icon_color=2F80ED)](https://github.com/ArthurALEXANDRE-29/simulation-reseau)
 
-- 📌 doojons-and-dragons — Projet pédagogique en **Java** (POO/jeu) : mini RPG textuel et structures objet.
-[![doojons-and-dragons](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=doojons-and-dragons&theme=default)](https://github.com/ArthurALEXANDRE-29/doojons-and-dragons)
+- 📌 doojons-and-dragons — Projet pédagogique en **Java** (POO/jeu) : mini RPG textuel et structures objet.  
+[![doojons-and-dragons](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=doojons-and-dragons&theme=transparent&hide_border=true&border_radius=12&title_color=2F80ED&text_color=6A737D&icon_color=2F80ED)](https://github.com/ArthurALEXANDRE-29/doojons-and-dragons)
 
-- 📌 gestion-caserne-pompier — Projet pédagogique en **C#/.NET** (gestion) : CRUD et logique métier de gestion.
-[![gestion-caserne-pompier](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=gestion-caserne-pompier&theme=default)](https://github.com/ArthurALEXANDRE-29/gestion-caserne-pompier)
+- 📌 gestion-caserne-pompier — Projet pédagogique en **C#/.NET** (gestion) : CRUD et logique métier de gestion.  
+[![gestion-caserne-pompier](https://github-readme-stats.vercel.app/api/pin/?username=ArthurALEXANDRE-29&repo=gestion-caserne-pompier&theme=transparent&hide_border=true&border_radius=12&title_color=2F80ED&text_color=6A737D&icon_color=2F80ED)](https://github.com/ArthurALEXANDRE-29/gestion-caserne-pompier)
 
 ---
 
-## **Compétences**
+### **Compétences**
 
 <div align="center">
 
-### Langages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+#### Langages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-### Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Réseau
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+#### Réseau
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### Outils
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+#### Outils
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
